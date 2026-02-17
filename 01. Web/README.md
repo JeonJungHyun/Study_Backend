@@ -62,6 +62,11 @@
 
    따라서 쿠키 또는 세션을 이용해 정보를 저장해야한다. </br>
 
+   3️⃣ 비연결성 (Connectionless) </br>
+
+   HTTP는 요청과 응답이 끝나면 연결을 종료한다. </br>
+   이로 인해 서버 자원을 효율적으로 사용할 수 있다. </br>
+
    (3) HTTP 메서드 </br>
    HTTP 메서드에는 GET, POST, PUT, DELETE, PATCH 등이 있다. </br>
 
