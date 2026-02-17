@@ -214,3 +214,13 @@ HTTPS는 아래와 같은 특징이 있다. </br>
 - HTTPS는 기본적으로 443 포트를 사용한다. </br>
    
 </details> 
+
+---
+
+🔗 참고  
+https://developer.mozilla.org/ko/docs/Web/HTTP  
+https://pids.tistory.com/255  
+https://it-rookie.com/13  
+https://brunch.co.kr/@belleyejinkim/18
+
+
