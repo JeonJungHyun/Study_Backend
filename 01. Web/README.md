@@ -16,6 +16,8 @@
 <details>
 <summary>2. WEB의 기본 구성 요소 </summary> </br>
 
+<img width="595" height="336" alt="image" src="https://github.com/user-attachments/assets/b6551911-ac16-4218-b991-89cdc219a1de" /> </br>
+
 1) **클라이언트(Client)** </br>
 
 클라이언트는 사용자가 웹 내 정보를 탐색할 수 있게 도와주는 역할을 한다. </br>
@@ -221,6 +223,10 @@ HTTPS는 아래와 같은 특징이 있다. </br>
 https://developer.mozilla.org/ko/docs/Web/HTTP  
 https://pids.tistory.com/255  
 https://it-rookie.com/13  
-https://brunch.co.kr/@belleyejinkim/18
+https://brunch.co.kr/@belleyejinkim/18 </br>
+https://wikidocs.net/228085 </br>
+
+🎞️ 이미지 출처 </br>
+https://static.wikidocs.net/images/page/228085/iShot_2024-01-22_14.45.48.png </br>
 
 
