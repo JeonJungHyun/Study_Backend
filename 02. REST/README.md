@@ -3,13 +3,11 @@
 <details>
 <summary>1. REST란?</summary> </br>
 
-REST(Representational State Transfer)는  
-웹에서 자원(Resource)을 효율적으로 주고받기 위한 아키텍처 스타일이다. </br>
+REST(Representational State Transfer)는 웹에서 자원(Resource)을 효율적으로 주고받기 위한 아키텍처 스타일이다. </br>
 
 즉, API를 설계할 때 지켜야 하는 `설계 원칙`이라고 볼 수 있다. </br>
 
-REST는 HTTP 프로토콜의 특징을 기반으로 만들어졌으며, </br>
-웹의 기본 구조인 `요청(Request) - 응답(Response)` 방식을 따른다. </br>
+REST는 HTTP 프로토콜의 특징을 기반으로 만들어졌으며, 웹의 기본 구조인 `요청(Request) - 응답(Response)` 방식을 따른다. </br>
 
 </details>
 
