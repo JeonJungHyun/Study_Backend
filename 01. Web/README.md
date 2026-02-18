@@ -227,6 +227,6 @@ https://brunch.co.kr/@belleyejinkim/18 </br>
 https://wikidocs.net/228085 </br>
 
 🎞️ 이미지 출처 </br>
-https://static.wikidocs.net/images/page/228085/iShot_2024-01-22_14.45.48.png </br>
+[[https://static.wikidocs.net/images/page/228085/iShot_2024-01-22_14.45.48.png](https://wikidocs.net/228085) ](https://wikidocs.net/228085)</br>
 
 
