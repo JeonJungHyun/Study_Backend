@@ -135,7 +135,6 @@ REST 원칙을 잘 지켜 설계된 API를 RESTful API라고 한다. </br>
 
 </details>
 
-
 <details>
 <summary>6. REST의 장점</summary> </br>
 
