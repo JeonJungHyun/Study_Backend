@@ -1,4 +1,4 @@
-# 🍪 03. Cookie & Session
+# 🍪 03. Cookie & Session ( 계속 추가 중 ... )
 
 <details>
 <summary>1. 쿠키와 세션은 왜 필요한가?</summary> </br>
@@ -39,4 +39,12 @@
 2) 장바구니
 
 
+
+
+
+
+
+---
+
+🎞️ 이미지 출처 </br>
 https://velog.io/@ysy3285/쿠키-VS-세션
