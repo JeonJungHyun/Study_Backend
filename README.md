@@ -11,6 +11,6 @@
 - 요청부터 DB까지 이어지는 전체 흐름을 이해하고 설명할 수 있는 수준 도달하기
 
 ### 📁 카테고리
-- [01. WEB](./01.%20WEB)
+- [01. WEB](./01.%20Web)
 - [02. REST](./02.%20REST)
-- [03. COOKIE & SESSION](./03.%20COOKIE&SESSION)
+- [03. COOKIE & SESSION](./03.%20Cookie&Session)
