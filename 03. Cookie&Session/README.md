@@ -84,9 +84,13 @@
 </details>
 
 
-
-
 ---
+
+🔗 참고 </br>
+https://gdsc-university-of-seoul.github.io/Login-using-cookie-and-session/ </br>
+https://hongong.hanbit.co.kr/완벽-정리-쿠키-세션-토큰-캐시-그리고-cdn/ </br>
+https://velog.io/@ysy3285/쿠키-VS-세션 </br>
+
 
 🎞️ 이미지 출처 </br>
 https://velog.io/@ysy3285/쿠키-VS-세션 </br>
