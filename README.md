@@ -12,6 +12,6 @@
 
 ### 📁 카테고리
 - [01. Web](./01.%20Web)
-- [02. Rest](./02.%20REST)
+- [02. Rest](./02.%20Rest)
 - [03. Cookie&Session](./03.%20Cookie&Session)
 - [04. Authentication](./04.%20Authentication)
