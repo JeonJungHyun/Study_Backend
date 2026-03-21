@@ -110,7 +110,7 @@ Body: { id: "user1", pw: "1234" } ` </br>
 4️⃣ 저장 (Client) </br>  
 클라이언트는 전달받은 토큰을 자신의 저장소에 보관한다. </br>
 
-5️⃣ 요청 (Client → Server)
+5️⃣ 요청 (Client → Server) </br>
 이제 사용자가 ‘내 정보 조회’ 같은 보호된 API 를 호출할 때, 저장해 둔 토큰을 꺼내 HTTP 헤더에 실어 보낸다. </br>
 이때 Bearer 라는 인증 타입을 주로 사용한다. </br>
 `GET /api/profile
