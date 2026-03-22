@@ -16,4 +16,4 @@
 - [03. Cookie&Session](./03.%20Cookie&Session)
 - [04. Authentication](./04.%20Authentication)
 - [05. Architecture](./05.%20Architecture)
-- [06. Validation & Exception Handling](./06.%20Validation&ExceptionHandling)
+- [06. Validation&Exception](./06.%20Validation&Exception)
