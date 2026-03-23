@@ -17,3 +17,4 @@
 - [04. Authentication](./04.%20Authentication)
 - [05. Architecture](./05.%20Architecture)
 - [06. Validation&Exception](./06.%20Validation&Exception)
+- [07. Persistence&JPA](./07.%20Persistence&JPA)
