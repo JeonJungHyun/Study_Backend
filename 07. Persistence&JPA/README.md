@@ -86,6 +86,7 @@ DB와 대화하는 두 가지 대표적인 방식이다. </br>
 ---
 
 🔗 참고 </br>
+Google Gemini_ 영속성과 JPA </br>
 https://hleee.medium.com/영속성과-jpa-be900d112470 </br>
 
 
