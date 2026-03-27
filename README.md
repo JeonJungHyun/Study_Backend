@@ -18,3 +18,4 @@
 - [05. Architecture](./05.%20Architecture)
 - [06. Validation&Exception](./06.%20Validation&Exception)
 - [07. Persistence&JPA](./07.%20Persistence&JPA)
+- [08. SpringCore](./08.%20SpringCore)
