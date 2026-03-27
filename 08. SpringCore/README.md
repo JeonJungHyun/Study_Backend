@@ -1,4 +1,5 @@
-## 🍃 08. Spring Core (프레임워크의 심층 분석)
+# 🍃 08. Spring Core (프레임워크의 심층 분석)
+
 <details>
 <summary>1. IoC (Inversion of Control: 제어의 역전) </summary> </br>
 
