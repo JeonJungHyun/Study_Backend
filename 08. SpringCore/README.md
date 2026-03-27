@@ -91,3 +91,13 @@ AOP: 중복되는 부가 기능을 한곳에서 관리하여 코드 가독성과
 정리: 스프링은 좋은 객체 지향 설계를 할 수 있도록 도와주는 강력한 **'도구 상자'**이자 **'관리자'**이다.
 
 </details>
+
+---
+
+🔗 참고 </br>
+https://docs.spring.io/spring-framework/reference/core.html
+
+
+
+
+
