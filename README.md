@@ -19,3 +19,4 @@
 - [06. Validation&Exception](./06.%20Validation&Exception)
 - [07. Persistence&JPA](./07.%20Persistence&JPA)
 - [08. SpringCore](./08.%20SpringCore)
+- [09. Java심화(JVM & GC)](./09.%20Java심화(JVM & GC))
