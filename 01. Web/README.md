@@ -131,7 +131,7 @@ DB에서 완전히 지워버리는 Hard Delete 와 데이터를 삭제하지 않
 
 복구가 불가능한 Hard Delete와 달리 Soft Delete는 복구가 가능해, 실무에서는 데이터 복구 및 기록 보존을 위해 Soft Delete를 많이 사용한다고 한다.  
 
-🌟 PUT/PATCH/GET/DELETE는 여러 번 실행해도 결과가 같은 **'멱등성'**을 가지지만, POST는 매번 새로운 리소스를 생성할 수 있어 멱등하지 않다. </br>
+🌟 PUT/PATCH/GET/DELETE는 여러 번 실행해도 결과가 같은 **'멱등성'** 을 가지지만, POST는 매번 새로운 리소스를 생성할 수 있어 멱등하지 않다. </br>
 
 </br>
    
